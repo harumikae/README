@@ -121,3 +121,6 @@ gem
 ・ransack（検索機能）
 ・Faraday
 ・Aws-sdk-s3
+
+<!-- 画面遷移図 -->
+https://www.figma.com/design/CEC4B0YhFF3SVYEHEoh6yX/Untitled?node-id=9-412&node-type=frame&t=0XI1GwOXRuX5Basj-0
