@@ -126,5 +126,7 @@ gem
 https://www.figma.com/design/CEC4B0YhFF3SVYEHEoh6yX/Untitled?node-id=0-1&node-type=canvas&t=Jj6lrOpPHfAzdBjd-0
 
 #ER図
-
 https://www.mermaidchart.com/app/projects/109e95fb-29cd-4966-9bfe-dcc3d7d1d2fa/diagrams/5c114687-31b4-46e5-9689-bd700950811b/version/v0.1/edit
+
+<!-- issue -->
+https://github.com/users/harumikae/projects/1/views/1?sumFields=%5B145050776%5D&hideItemsCount=false
